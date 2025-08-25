@@ -51,4 +51,4 @@ Ele vai servir de referência para consultas futuras e para mostrar minha evolu�
 ## ✨ Autor
 
 Desenvolvido por **João Lucas**
-📌[LinkedIn]([https://www.linkedin.com/in/joaolucasbsantos/])
+📌[LinkedIn](https://www.linkedin.com/in/joaolucasbsantos/)

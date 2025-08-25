@@ -50,5 +50,5 @@ Ele vai servir de referência para consultas futuras e para mostrar minha evolu�
 
 ## ✨ Autor
 
-Desenvolvido por **João Lucas Bernardo** 🖤
+Desenvolvido por **João Lucas**
 📌 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/joaolucasbsantos/))

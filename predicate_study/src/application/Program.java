@@ -3,7 +3,6 @@ package application;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
-import java.util.function.Predicate;
 
 import model.entities.Product;
 
@@ -28,7 +27,7 @@ public class Program {
 //		Predicate<Product> pred = p -> p.getPrice() >= min; -> expressão lambda declarada
 //		list.removeIf(pred);
 		
-		list.removeIf(p -> p.getPrice() >= 100);
+		list.removeIf(p -> p.getPrice() >= min);
 		
 		for (Product p : list) {
 			System.out.println(p);
